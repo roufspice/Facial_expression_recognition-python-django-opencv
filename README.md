@@ -17,10 +17,10 @@ c Python version: 3.6 or 3.7.0
 
 
 <h3> Demonstration Video </h3>
-<p> <a href="#">click here</a> if you want to see a demostration video to run our web application. </p>
+<p><a href="#">click here</a> if you want to see a demostration video to run our web application. </p>
 
 <div>
-  <img href =""></a>
+  <img src ="https://github.com/roufspice/Facial_expression_recognition-python-django-opencv/blob/master/images/image_01.png" width="500" height="250">
 </div>
 
 
