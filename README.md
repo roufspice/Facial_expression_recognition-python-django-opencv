@@ -32,3 +32,7 @@ c Python version: 3.6 or 3.7.0
 • Use Python to read the camera screen, and realize application using OpenCV's python library to open the system USB camera. - web cam - 
 
 • To realize this application referenced scripts are <a href="https://github.com/linlinhaohao888/Monitor">here.</a>
+
+
+<h3> CNN classification model structure </h3>
+• How to use and modify CNN model : <a href="https://github.com/roufspice/face_expression_miniproject">click here.</a><br>
