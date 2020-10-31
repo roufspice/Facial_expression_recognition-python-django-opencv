@@ -40,10 +40,5 @@ c Python version: 3.6 or 3.7.0
 
 
 
-<pre>
-<code>
 <p> click here if you want to see a demostration video to run our web application. </p>
 
-</code>
-
-</pre>
