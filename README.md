@@ -16,6 +16,11 @@ c Python version: 3.6 or 3.7.0
 </pre>
 
 
+<h3> Demonstration Video </h3>
+<p> <a href="#">click here</a> if you want to see a demostration video to run our web application. </p>
+
+
+
 <h2>1. Basic functions of this application</h2>
 
 <h3>1.1 Realize smile expression recognition app</h3> <br>
@@ -39,6 +44,4 @@ c Python version: 3.6 or 3.7.0
 
 
 
-<h3> Demonstration Video </h3>
-<p> click here if you want to see a demostration video to run our web application. </p>
 
